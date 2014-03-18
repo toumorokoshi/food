@@ -1,9 +1,7 @@
 # this requires sphinx to be installed:
-# $ easy_install -U sphinx
-cd docs
+# $ pip install sphinx
 make html
 git checkout gh-pages
-cd ..
 rm -rf source/
 mv build/html/* .
 git add .

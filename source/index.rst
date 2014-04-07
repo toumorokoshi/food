@@ -14,6 +14,7 @@ Pages:
    :maxdepth: 1
 
    workout
+   inprogress
 
 
 Recipes:

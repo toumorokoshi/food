@@ -3,6 +3,7 @@
 make html
 git checkout gh-pages
 rm -rf source/
+rm -rf ./_static ./_sources ./recipes
 mv build/html/* .
 git add .
 git commit -am "build $(date)"

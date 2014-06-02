@@ -24,7 +24,10 @@ Notes
 -----
 
 * high protein intake (40-45 grams per meal)
-* cut out carbs after afternoons + evenings
+* carb should be consumed during:
+    * morning
+    * pre-workout
+    * post-workout
 
 ------------
 Foods to Eat
